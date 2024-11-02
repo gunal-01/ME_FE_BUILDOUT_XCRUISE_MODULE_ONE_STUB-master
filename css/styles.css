@@ -78,7 +78,7 @@ body {
 }
 
 .hero {
-    background: url('/assets/hero-cruise.png') center/cover;
+    background: url('https://github.com/Mohak-Trivedi/xcruise-assets/blob/master/hero-cruise.png?raw=true') center/cover;
     height: 100vh;
     display: flex;
     flex-direction: column;
